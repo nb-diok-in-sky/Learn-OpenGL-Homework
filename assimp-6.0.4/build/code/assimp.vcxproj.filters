@@ -1,0 +1,1970 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\CApi\CInterfaceIOWrapper.cpp">
+      <Filter>CApi</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Compression.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\IOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\ZipArchiveIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\material.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\AssertHandler.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Exceptional.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Base64.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Geometry\GeometryUtils.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\CApi\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\DropFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ArmaturePopulate.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\GenBoundingBoxesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\SplitByBoneCountProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Material\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\STEPParser\STEPFileReader.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\STEPParser\STEPFileEncoding.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTFCommon\glTFCommon.cpp">
+      <Filter>glTFCommon</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\AMF\AMFImporter.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\AMF\AMFImporter_Geometry.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\AMF\AMFImporter_Material.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\AMF\AMFImporter_Postprocess.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3DS\3DSConverter.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3DS\3DSLoader.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\AC\ACLoader.cpp">
+      <Filter>AssetLib\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\ASE\ASELoader.cpp">
+      <Filter>AssetLib\ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\ASE\ASEParser.cpp">
+      <Filter>AssetLib\ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assbin\AssbinLoader.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\B3D\B3DImporter.cpp">
+      <Filter>AssetLib\B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\BVH\BVHLoader.cpp">
+      <Filter>AssetLib\BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Collada\ColladaHelper.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Collada\ColladaLoader.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Collada\ColladaParser.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\DXF\DXFLoader.cpp">
+      <Filter>AssetLib\DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\CSM\CSMLoader.cpp">
+      <Filter>AssetLib\CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\HMP\HMPLoader.cpp">
+      <Filter>AssetLib\HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Irr\IRRMeshLoader.cpp">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Irr\IRRShared.cpp">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IQM\IQMImporter.cpp">
+      <Filter>AssetLib\IQM</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Irr\IRRLoader.cpp">
+      <Filter>AssetLib\IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWO\LWOAnimation.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWO\LWOBLoader.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWO\LWOLoader.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWO\LWOMaterial.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWS\LWSLoader.cpp">
+      <Filter>AssetLib\LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD2\MD2Loader.cpp">
+      <Filter>AssetLib\MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD3\MD3Loader.cpp">
+      <Filter>AssetLib\MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD5\MD5Loader.cpp">
+      <Filter>AssetLib\MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD5\MD5Parser.cpp">
+      <Filter>AssetLib\MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDC\MDCLoader.cpp">
+      <Filter>AssetLib\MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\MDLLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\MDLMaterialLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\HL1MDLLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\UniqueNameGenerator.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\NFF\NFFLoader.cpp">
+      <Filter>AssetLib\NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\NDO\NDOLoader.cpp">
+      <Filter>AssetLib\NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\OFF\OFFLoader.cpp">
+      <Filter>AssetLib\OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjFileImporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjFileMtlImporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjFileParser.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreImporter.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreStructs.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreBinarySerializer.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreXmlSerializer.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreMaterial.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\OpenGEX\OpenGEXImporter.cpp">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ply\PlyLoader.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ply\PlyParser.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MS3D\MS3DLoader.cpp">
+      <Filter>AssetLib\MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\COB\COBLoader.cpp">
+      <Filter>AssetLib\COB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderLoader.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderDNA.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderScene.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderModifier.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderBMesh.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderTessellator.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderCustomData.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCLoader.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCUtil.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCGeometry.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCMaterial.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCProfile.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCCurve.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCBoolean.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCOpenings.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\XGL\XGLLoader.cpp">
+      <Filter>AssetLib\XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXImporter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXParser.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXTokenizer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXConverter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXDocument.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXProperties.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXMeshGeometry.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXMaterial.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXModel.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXAnimation.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXNodeAttribute.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXDeformer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXBinaryTokenizer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXDocumentUtil.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Q3D\Q3DLoader.cpp">
+      <Filter>AssetLib\Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Q3BSP\Q3BSPFileParser.cpp">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Q3BSP\Q3BSPFileImporter.cpp">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Raw\RawLoader.cpp">
+      <Filter>AssetLib\RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\SIB\SIBImporter.cpp">
+      <Filter>AssetLib\SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\SMD\SMDLoader.cpp">
+      <Filter>AssetLib\SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\STL\STLLoader.cpp">
+      <Filter>AssetLib\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Terragen\TerragenLoader.cpp">
+      <Filter>AssetLib\TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Unreal\UnrealLoader.cpp">
+      <Filter>AssetLib\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X\XFileImporter.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X\XFileParser.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Geometry2D.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Geometry3D.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Group.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Light.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Metadata.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Networking.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Postprocess.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Rendering.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Shape.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Texturing.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DGeoHelper.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DXmlHelper.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\VRML\VrmlConverter.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF\glTFImporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF2\glTF2Importer.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\XmlSerializer.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\D3MFImporter.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\D3MFOpcPackage.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MMD\MMDImporter.cpp">
+      <Filter>AssetLib\MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MMD\MMDPmxParser.cpp">
+      <Filter>AssetLib\MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjExporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\OpenGEX\OpenGEXExporter.cpp">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ply\PlyExporter.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3DS\3DSExporter.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assbin\AssbinExporter.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assbin\AssbinFileWriter.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assxml\AssxmlExporter.cpp">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assxml\AssxmlFileWriter.cpp">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Collada\ColladaExporter.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXExporter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXExportNode.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXExportProperty.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\STL\STLExporter.cpp">
+      <Filter>AssetLib\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X\XFileExporter.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DExporter.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF\glTFExporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF2\glTF2Exporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\D3MFExporter.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\Pbrt\PbrtExporter.cpp">
+      <Filter>AssetLib\PBRT</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assjson\cencode.c">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assjson\json_exporter.cpp">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assjson\mesh_splitter.cpp">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Step\StepExporter.cpp">
+      <Filter>AssetLib\STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\unzip\ioapi.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\unzip\unzip.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\clipper\clipper.cpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\code\Value.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\LearnOpenGL\assimp-6.0.4\contrib\pugixml\src\pugixml.cpp">
+      <Filter>Contrib\Pugixml</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\CApi\CInterfaceIOWrapper.h">
+      <Filter>CApi</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\StbCommon.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Compression.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\PolyTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Maybe.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\StackAllocator.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\StackAllocator.inl">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Geometry\GeometryUtils.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\DefaultLogger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\LogStream.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Logger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\NullLogger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Common\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\BlobIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\DropFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\ArmaturePopulate.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\GenBoundingBoxesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\PostProcessing\SplitByBoneCountProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Material\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\STEPParser\STEPFileReader.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\STEPParser\STEPFileEncoding.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTFCommon\glTFCommon.h">
+      <Filter>glTFCommon</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\AMF\AMFImporter.hpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\AMF\AMFImporter_Node.hpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3DS\3DSHelper.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3DS\3DSLoader.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\AC\ACLoader.h">
+      <Filter>AssetLib\AC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\ASE\ASELoader.h">
+      <Filter>AssetLib\ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\ASE\ASEParser.h">
+      <Filter>AssetLib\ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assbin\AssbinLoader.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\B3D\B3DImporter.h">
+      <Filter>AssetLib\B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\BVH\BVHLoader.h">
+      <Filter>AssetLib\BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Collada\ColladaHelper.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Collada\ColladaLoader.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Collada\ColladaParser.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\DXF\DXFLoader.h">
+      <Filter>AssetLib\DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\DXF\DXFHelper.h">
+      <Filter>AssetLib\DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\CSM\CSMLoader.h">
+      <Filter>AssetLib\CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\HMP\HMPFileData.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\HMP\HMPLoader.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\HMP\HalfLifeFileData.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Irr\IRRMeshLoader.h">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Irr\IRRShared.h">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IQM\iqm.h">
+      <Filter>AssetLib\IQM</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IQM\IQMImporter.h">
+      <Filter>AssetLib\IQM</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Irr\IRRLoader.h">
+      <Filter>AssetLib\IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWO\LWOAnimation.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWO\LWOFileData.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWO\LWOLoader.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\LWS\LWSLoader.h">
+      <Filter>AssetLib\LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD2\MD2FileData.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD2\MD2Loader.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD2\MD2NormalTable.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD3\MD3FileData.h">
+      <Filter>AssetLib\MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD3\MD3Loader.h">
+      <Filter>AssetLib\MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD5\MD5Loader.h">
+      <Filter>AssetLib\MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MD5\MD5Parser.h">
+      <Filter>AssetLib\MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDC\MDCFileData.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDC\MDCLoader.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDC\MDCNormalTable.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\MDLDefaultColorMap.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\MDLFileData.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\MDLLoader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\HalfLifeMDLBaseHeader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\HL1DataBuffer.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\HL1FileData.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\HL1MDLLoader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\HL1ImportDefinitions.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\HL1ImportSettings.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\HL1MeshTrivert.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\LogFunctions.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MDL\HalfLife\UniqueNameGenerator.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\NFF\NFFLoader.h">
+      <Filter>AssetLib\NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\NDO\NDOLoader.h">
+      <Filter>AssetLib\NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\OFF\OFFLoader.h">
+      <Filter>AssetLib\OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjFileData.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjFileImporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjFileMtlImporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjFileParser.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjTools.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreImporter.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreStructs.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreParsingUtils.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreBinarySerializer.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ogre\OgreXmlSerializer.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\OpenGEX\OpenGEXImporter.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\OpenGEX\OpenGEXStructs.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ply\PlyLoader.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ply\PlyParser.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MS3D\MS3DLoader.h">
+      <Filter>AssetLib\MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\COB\COBLoader.h">
+      <Filter>AssetLib\COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\COB\COBScene.h">
+      <Filter>AssetLib\COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderLoader.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderDNA.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderDNA.inl">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderScene.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderSceneGen.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderIntermediate.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderModifier.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderBMesh.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderTessellator.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Blender\BlenderCustomData.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCLoader.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCReaderGen_2x3.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\IFC\IFCUtil.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\XGL\XGLLoader.h">
+      <Filter>AssetLib\XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXCompileConfig.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXImporter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXParser.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXTokenizer.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXImportSettings.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXConverter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXDocument.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXProperties.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXMeshGeometry.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Q3D\Q3DLoader.h">
+      <Filter>AssetLib\Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Q3BSP\Q3BSPFileData.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Q3BSP\Q3BSPFileParser.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Q3BSP\Q3BSPFileImporter.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Raw\RawLoader.h">
+      <Filter>AssetLib\RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\SIB\SIBImporter.h">
+      <Filter>AssetLib\SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\SMD\SMDLoader.h">
+      <Filter>AssetLib\SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\STL\STLLoader.h">
+      <Filter>AssetLib\STL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Terragen\TerragenLoader.h">
+      <Filter>AssetLib\TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Unreal\UnrealLoader.h">
+      <Filter>AssetLib\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X\XFileHelper.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X\XFileImporter.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X\XFileParser.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Macro.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DImporter_Node.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DGeoHelper.h">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DXmlHelper.h">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF\glTFAsset.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF\glTFAsset.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF\glTFAssetWriter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF\glTFAssetWriter.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF\glTFImporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF2\glTF2Asset.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF2\glTF2Asset.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF2\glTF2AssetWriter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF2\glTF2AssetWriter.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF2\glTF2Importer.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\3MFTypes.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\XmlSerializer.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\D3MFImporter.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\D3MFOpcPackage.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\3MFXmlTags.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MMD\MMDCpp14.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MMD\MMDImporter.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MMD\MMDPmdParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MMD\MMDPmxParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\MMD\MMDVmdParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Obj\ObjExporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\OpenGEX\OpenGEXExporter.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Ply\PlyExporter.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3DS\3DSExporter.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assbin\AssbinExporter.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assbin\AssbinFileWriter.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assxml\AssxmlExporter.h">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assxml\AssxmlFileWriter.h">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Collada\ColladaExporter.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXExporter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXExportNode.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXExportProperty.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\STL\STLExporter.h">
+      <Filter>AssetLib\STL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X\XFileExporter.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\X3D\X3DExporter.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF\glTFExporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\glTF2\glTF2Exporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\3MF\D3MFExporter.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\Pbrt\PbrtExporter.h">
+      <Filter>AssetLib\PBRT</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assjson\cencode.h">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Assjson\mesh_splitter.h">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\Step\StepExporter.h">
+      <Filter>AssetLib\STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\code\AssetLib\FBX\FBXCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\unzip\crypt.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\unzip\ioapi.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\unzip\unzip.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\clipper\clipper.hpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\pugixml\src\pugiconfig.hpp">
+      <Filter>Contrib\Pugixml</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\pugixml\src\pugixml.hpp">
+      <Filter>Contrib\Pugixml</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\contrib\stb\stb_image.h">
+      <Filter>Contrib\stb</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\anim.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\aabb.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\ai_assert.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\camera.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\color4.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\color4.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\build\include\assimp\config.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\ColladaMetaData.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\commonMetaData.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\defs.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\cfileio.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\light.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\material.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\material.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\matrix3x3.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\matrix3x3.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\matrix4x4.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\matrix4x4.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\mesh.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\ObjMaterial.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\pbrmaterial.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\GltfMaterial.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\postprocess.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\quaternion.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\quaternion.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\scene.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\metadata.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\texture.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\types.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\vector2.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\vector2.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\vector3.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\vector3.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\version.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\cimport.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\AssertHandler.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\importerdesc.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Importer.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\ProgressHandler.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\IOStream.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\IOSystem.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\cexport.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Exporter.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\DefaultIOStream.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\DefaultIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\ZipArchiveIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\SceneCombiner.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\fast_atof.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\qnan.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\BaseImporter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Hash.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\MemoryIOWrapper.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\ParsingUtils.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\StreamReader.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\StreamWriter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\StringComparison.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\StringUtils.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\SGSpatialSort.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\GenericProperty.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\SpatialSort.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\SmallVector.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\SmoothingGroups.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\SmoothingGroups.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\StandardShapes.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\RemoveComments.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Subdivision.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Vertex.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\LineSplitter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\TinyFormatter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Profiler.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\LogAux.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Bitmap.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\XMLTools.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\IOStreamBuffer.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\CreateAnimMesh.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\XmlParser.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\MathFunctions.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Exceptional.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\ByteSwapper.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Base64.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\LearnOpenGL\assimp-6.0.4\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\LearnOpenGL\assimp-6.0.4\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\LearnOpenGL\assimp-6.0.4\code\res\assimp.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AssetLib">
+      <UniqueIdentifier>{2CDD9F94-07E7-3E06-905B-A2A800B186BE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3D">
+      <UniqueIdentifier>{EA793C4D-A0AA-3839-A37A-1A8610394E92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3DS">
+      <UniqueIdentifier>{33C12897-DE6D-33DD-AC5A-358A8059C0BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3MF">
+      <UniqueIdentifier>{3CDC5E80-F2C6-39A9-994A-96AC56E08955}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\AC">
+      <UniqueIdentifier>{06C0C5B2-E98C-374C-B284-58F041AAD3EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\AMF">
+      <UniqueIdentifier>{89DBF18A-EA01-3D95-98BD-D450D7107903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASE">
+      <UniqueIdentifier>{47738612-C08F-3AC4-8164-F4E0891244F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSBIN">
+      <UniqueIdentifier>{3CE48779-0E25-3D4C-B2FF-E7F7F3A8BEDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSJSON">
+      <UniqueIdentifier>{27F42326-E4A0-3141-B32D-8CD277B54600}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSXML">
+      <UniqueIdentifier>{48F02BBF-8C85-3CFD-9B5E-008A870396E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\B3D">
+      <UniqueIdentifier>{F195740C-E2E9-3BEA-8E45-327DAF01127F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\BLEND">
+      <UniqueIdentifier>{ADC527DC-7EA0-3EA3-B575-F5516BD8B854}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\BVH">
+      <UniqueIdentifier>{8E55A8C6-C178-37C0-AA23-118481C240D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\COB">
+      <UniqueIdentifier>{D8BACC3E-4113-343E-AF74-CD628B7E28D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\COLLADA">
+      <UniqueIdentifier>{96506F9D-225F-354F-979E-DCD45FE405A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\CSM">
+      <UniqueIdentifier>{02B57678-B319-3194-A56A-FB10BA9911E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\DXF">
+      <UniqueIdentifier>{29B2C72E-7A1C-33DB-BFCA-230FFED635BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\FBX">
+      <UniqueIdentifier>{772325C6-3988-3D9C-A40B-D01878289080}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\GLTF">
+      <UniqueIdentifier>{6E58F32D-5DC5-39A2-8B29-A17BAAF5ED63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\HMP">
+      <UniqueIdentifier>{7EEFB70B-8C63-31D3-A56B-4DE02EFF77B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IFC">
+      <UniqueIdentifier>{70655E1F-0A9C-3DCE-8111-4EF7F6DB1617}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IQM">
+      <UniqueIdentifier>{C7451241-0E34-34AB-AD06-B61A96C22E7F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IRR">
+      <UniqueIdentifier>{2877F3C5-5DA4-3C14-A17D-E88A19F76F64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IRRMESH">
+      <UniqueIdentifier>{D6BD25A6-3728-3B82-A972-13BD4FD30643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\LWO">
+      <UniqueIdentifier>{8FDD53D8-A3BD-3D94-925A-93FA18297D45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\LWS">
+      <UniqueIdentifier>{75535382-B7F3-33E6-B90D-9B609D55B85A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD2">
+      <UniqueIdentifier>{9ADC114D-485F-3864-ACCD-E78FCE2AFED6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD3">
+      <UniqueIdentifier>{189ADC11-8A34-3952-A6FB-29CB9094EAE6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD5">
+      <UniqueIdentifier>{D1F0AF67-FE64-3328-A878-A2FF2D0F33CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MDC">
+      <UniqueIdentifier>{82C0A103-9559-3256-9819-0CCC8CC4831A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MDL">
+      <UniqueIdentifier>{D90FC55B-5629-308C-8CCF-D074879BFD51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MMD">
+      <UniqueIdentifier>{4AE7DAB0-B4B7-3D6D-A712-B4A299171246}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MS3D">
+      <UniqueIdentifier>{82530A9C-043B-3DDE-A225-D47CB95E4BB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\NDO">
+      <UniqueIdentifier>{2F3D69B0-6DDC-380A-A1D2-B74D57B3A24F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\NFF">
+      <UniqueIdentifier>{22A1E071-5A9A-3E80-B3E7-A11D462ADDEA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OBJ">
+      <UniqueIdentifier>{838E770A-730D-3AA6-B412-02E8EAB33C3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OFF">
+      <UniqueIdentifier>{D37C666B-8BBA-3DD9-B8EE-266244ACC647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OGRE">
+      <UniqueIdentifier>{97AFB80F-40A6-338A-99B2-2F252BE7C289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OPENGEX">
+      <UniqueIdentifier>{025B97F2-7BF4-33E2-B58E-0413EBF73A71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\PBRT">
+      <UniqueIdentifier>{440E1673-EACC-3F28-BD61-D988FE4A5F09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\PLY">
+      <UniqueIdentifier>{4EEB0DAD-3A7C-35EF-A5B9-9FC1CB299D9B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\Q3BSP">
+      <UniqueIdentifier>{AABDB393-698B-33C4-98D0-B5D51E03A2CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\Q3D">
+      <UniqueIdentifier>{93E4548C-C6A0-3DBC-BF0E-47FC8B5C8B66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\RAW">
+      <UniqueIdentifier>{B631D6AD-AF22-3553-87BC-229940BD1293}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\SIB">
+      <UniqueIdentifier>{EAFE252E-A35D-311A-8805-7709B85FEE08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\SMD">
+      <UniqueIdentifier>{F810786B-4715-3398-A978-439A9FF37262}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\STEP">
+      <UniqueIdentifier>{D08A5D57-D681-3591-89A8-1D88E1585615}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\STL">
+      <UniqueIdentifier>{CCFCCEC8-ECB9-3FA9-A67A-8D5F9C936459}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\TERRAGEN">
+      <UniqueIdentifier>{A37AB9F5-8B41-3A8F-8554-F2E2F8CBF58E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\X">
+      <UniqueIdentifier>{C3886182-9195-3EAE-998A-EA5255D61898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\X3D">
+      <UniqueIdentifier>{EB83F6B7-60B8-3B3C-AA19-915E0D03C537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\XGL">
+      <UniqueIdentifier>{AF71248C-3D63-38CB-A079-73B43467FF36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CApi">
+      <UniqueIdentifier>{0380B8CF-C7A3-31E4-98CF-4D359C724D8B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{292EFBBC-FCD9-36D5-BE91-3BAC11BE66DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{2EFEE054-F695-3716-AA3F-BFA353E0FA5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib">
+      <UniqueIdentifier>{640A28B7-ED15-34A0-87EB-A59748388E37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Clipper">
+      <UniqueIdentifier>{C99D794B-5BBC-363A-AFB2-889B5234C8FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Poly2Tri">
+      <UniqueIdentifier>{4092AADE-F029-31A4-A3B8-237A4F0B72C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Pugixml">
+      <UniqueIdentifier>{BBF3A4FA-9836-3822-A3CF-37526265C52F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\open3dgc">
+      <UniqueIdentifier>{9F57FB32-A930-33A7-9F6B-86DE82115712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\openddl_parser">
+      <UniqueIdentifier>{F7D9509D-81EF-3844-BBB1-D68D564EFA3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\stb">
+      <UniqueIdentifier>{EF8BBA25-46E6-398F-A821-302463A0D4A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\unzip">
+      <UniqueIdentifier>{CA2B9228-BA94-3C15-9B90-DB46BFB4C2C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{655845E7-D119-3F54-A80C-41293BBAA54C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometry">
+      <UniqueIdentifier>{A77E5823-7B86-3FD9-96C9-0BC52E4479A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{441C7618-1057-3F08-9DE5-4A665265B40F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{A95FA2C6-2C07-3F43-B898-1EC247D2FD4E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{C61B07C8-6EF6-3B56-B887-3CBFDA916174}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{7A16433B-9A8A-37D1-962E-1336B9241F16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPParser">
+      <UniqueIdentifier>{B9C999F0-9269-35E3-AEE5-DE6A4D9F7307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{725669FE-AE80-3388-9EAA-C2278F25EABE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="glTFCommon">
+      <UniqueIdentifier>{3249E61F-5E48-3866-9F1C-979509E852CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{E0AA943F-BAA4-3CC6-8E36-D6E8B87B23D5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\assimp">
+      <UniqueIdentifier>{81060713-7046-39A9-9027-7669730875AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{C475A870-FA36-308A-9247-39E2D70EB890}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

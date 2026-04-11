@@ -1,0 +1,13 @@
+D:/LearnOpenGL/assimp-6.0.4/build/CMakeFiles/uninstall.dir
+D:/LearnOpenGL/assimp-6.0.4/build/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+D:/LearnOpenGL/assimp-6.0.4/build/CMakeFiles/INSTALL.dir
+D:/LearnOpenGL/assimp-6.0.4/build/CMakeFiles/ALL_BUILD.dir
+D:/LearnOpenGL/assimp-6.0.4/build/CMakeFiles/ZERO_CHECK.dir
+D:/LearnOpenGL/assimp-6.0.4/build/contrib/zlib/CMakeFiles/zlibstatic.dir
+D:/LearnOpenGL/assimp-6.0.4/build/contrib/zlib/CMakeFiles/INSTALL.dir
+D:/LearnOpenGL/assimp-6.0.4/build/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+D:/LearnOpenGL/assimp-6.0.4/build/code/CMakeFiles/assimp.dir
+D:/LearnOpenGL/assimp-6.0.4/build/code/CMakeFiles/INSTALL.dir
+D:/LearnOpenGL/assimp-6.0.4/build/test/CMakeFiles/unit.dir
+D:/LearnOpenGL/assimp-6.0.4/build/test/CMakeFiles/INSTALL.dir
+D:/LearnOpenGL/assimp-6.0.4/build/test/headercheck/CMakeFiles/INSTALL.dir

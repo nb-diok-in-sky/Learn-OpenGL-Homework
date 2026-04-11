@@ -1,0 +1,15 @@
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\adler32.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\adler32.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\compress.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\compress.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\crc32.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\crc32.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\deflate.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\deflate.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\gzclose.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\gzclose.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\gzlib.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\gzlib.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\gzread.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\gzread.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\gzwrite.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\gzwrite.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\inflate.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\inflate.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\infback.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\infback.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\inftrees.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\inftrees.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\inffast.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\inffast.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\trees.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\trees.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\uncompr.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\uncompr.obj
+D:\LearnOpenGL\assimp-6.0.4\contrib\zlib\zutil.c;D:\LearnOpenGL\assimp-6.0.4\build\contrib\zlib\zlibstatic.dir\Debug\zutil.obj

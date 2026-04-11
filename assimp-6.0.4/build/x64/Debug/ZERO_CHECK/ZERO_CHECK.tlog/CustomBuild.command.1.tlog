@@ -1,0 +1,10 @@
+^D:\LEARNOPENGL\ASSIMP-6.0.4\BUILD\CMAKEFILES\0E7B3E21DEFBEEDA370286F6EA85435E\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe -SD:/LearnOpenGL/assimp-6.0.4 -BD:/LearnOpenGL/assimp-6.0.4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/LearnOpenGL/assimp-6.0.4/build/Assimp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+D:/Cmake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake
+D:/Cmake/share/cmake-3.31/Modules/CheckFunctionExists.cmake
+D:/Cmake/share/cmake-3.31/Modules/CheckIncludeFile.cmake
+D:/Cmake/share/cmake-3.31/Modules/CheckIncludeFileCXX.cmake
+D:/Cmake/share/cmake-3.31/Modules/CheckTypeSize.cmake
+D:/Cmake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake
+D:/LearnOpenGL/assimp-6.0.4/contrib/zlib/CMakeLists.txt
+D:/LearnOpenGL/assimp-6.0.4/contrib/zlib/zconf.h.cmakein
+D:/LearnOpenGL/assimp-6.0.4/contrib/zlib/zlib.pc.cmakein

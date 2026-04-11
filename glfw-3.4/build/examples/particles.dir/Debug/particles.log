@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/LearnOpenGL/glfw-3.4/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  正在生成代码...
+  particles.vcxproj -> D:\LearnOpenGL\glfw-3.4\build\examples\Debug\particles.exe

@@ -1,0 +1,6 @@
+﻿  hello_triangle.cpp
+D:\LearnOpenGL\libraries\include\tool\shader.h(74,40): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\HomeWork\05_Texture\hello_triangle\hello_triangle.cpp(169,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  hello_triangle.vcxproj -> D:\LearnOpenGL\HomeWork\05_Texture\x64\Debug\hello_triangle.exe

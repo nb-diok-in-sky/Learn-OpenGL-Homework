@@ -1,0 +1,482 @@
+﻿  hello_triangle.cpp
+D:\LearnOpenGL\libraries\include\tool\shader.h(74,40): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\HomeWork\13_Model\hello_triangle\model.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(691,12): error C2084: 函数“int stbi__cpuid3(void)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(691,12):
+      参见“stbi__cpuid3”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(713,12): error C2084: 函数“int stbi__sse2_available(void)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(713,12):
+      参见“stbi__sse2_available”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(715,13): error C2440: “初始化”: 无法从“int (__cdecl *)(void)”转换为“int”
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(715,13):
+      没有使该转换得以执行的上下文
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(776,3): error C2371: “stbi__context”: 重定义；不同的基类型
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(776,3):
+      参见“stbi__context”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(781,13): error C2084: 函数“void stbi__start_mem(stbi__context *,const stbi_uc *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(781,13):
+      参见“stbi__start_mem”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(791,13): error C2084: 函数“void stbi__start_callbacks(stbi__context *,stbi_io_callbacks *,void *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(791,13):
+      参见“stbi__start_callbacks”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(805,12): error C2084: 函数“int stbi__stdio_read(void *,char *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(805,12):
+      参见“stbi__stdio_read”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(810,13): error C2084: 函数“void stbi__stdio_skip(void *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(810,13):
+      参见“stbi__stdio_skip”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(821,12): error C2084: 函数“int stbi__stdio_eof(void *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(821,12):
+      参见“stbi__stdio_eof”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(826,26): error C2374: “stbi__stdio_callbacks”: 重定义；多次初始化
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(826,26):
+      参见“stbi__stdio_callbacks”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(833,13): error C2084: 函数“void stbi__start_file(stbi__context *,FILE *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(833,13):
+      参见“stbi__start_file”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(835,3): error C2264: “stbi__start_callbacks”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(842,13): error C2084: 函数“void stbi__rewind(stbi__context *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(842,13):
+      参见“stbi__rewind”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(853,3): error C2365: “STBI_ORDER_RGB”: 重定义；以前的定义是“枚举数”
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(853,3):
+      参见“STBI_ORDER_RGB”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(854,3): error C2365: “STBI_ORDER_BGR”: 重定义；以前的定义是“枚举数”
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(854,3):
+      参见“STBI_ORDER_BGR”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(862,3): error C2371: “stbi__result_info”: 重定义；不同的基类型
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(862,3):
+      参见“stbi__result_info”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(925,17): error C2086: “const char *stbi__g_failure_reason”: 重定义
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(925,17):
+      参见“stbi__g_failure_reason”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(927,21): error C2084: 函数“const char *stbi_failure_reason(void)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(927,21):
+      参见“stbi_failure_reason”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(933,12): warning C4003: 类函数宏的调用“stbi__err”参数不足
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(933,12): error C2084: 函数“int stbi__err(const char *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(933,12):
+      参见“stbi__err”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(940,14): error C2084: 函数“void *stbi__malloc(size_t)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(940,14):
+      参见“stbi__malloc”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(957,12): error C2084: 函数“int stbi__addsizes_valid(int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(957,12):
+      参见“stbi__addsizes_valid”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(970,12): error C2084: 函数“int stbi__mul2sizes_valid(int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(970,12):
+      参见“stbi__mul2sizes_valid”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(982,12): error C2084: 函数“int stbi__mad2sizes_valid(int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(982,12):
+      参见“stbi__mad2sizes_valid”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(984,31): warning C4551: 缺少参数列表的函数调用
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(984,31): error C2568: “&&”: 无法解析函数重载
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(984,31):
+      可能是“int stbi__mul2sizes_valid(int,int)”
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(989,12): error C2084: 函数“int stbi__mad3sizes_valid(int,int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(989,12):
+      参见“stbi__mad3sizes_valid”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(991,31): warning C4551: 缺少参数列表的函数调用
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(991,31): error C2568: “&&”: 无法解析函数重载
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(991,31):
+      可能是“int stbi__mul2sizes_valid(int,int)”
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(997,12): error C2084: 函数“int stbi__mad4sizes_valid(int,int,int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(997,12):
+      参见“stbi__mad4sizes_valid”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(999,31): warning C4551: 缺少参数列表的函数调用
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(999,31): error C2568: “&&”: 无法解析函数重载
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(999,31):
+      可能是“int stbi__mul2sizes_valid(int,int)”
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1006,14): error C2084: 函数“void *stbi__malloc_mad2(int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1006,14):
+      参见“stbi__malloc_mad2”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1008,7): warning C4551: 缺少参数列表的函数调用
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1014,14): error C2084: 函数“void *stbi__malloc_mad3(int,int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1014,14):
+      参见“stbi__malloc_mad3”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1016,7): warning C4551: 缺少参数列表的函数调用
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1022,14): error C2084: 函数“void *stbi__malloc_mad4(int,int,int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1022,14):
+      参见“stbi__malloc_mad4”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1024,7): warning C4551: 缺少参数列表的函数调用
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1045,14): error C2084: 函数“void stbi_image_free(void *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1045,14):
+      参见“stbi_image_free”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1058,12): error C2374: “stbi__vertically_flip_on_load_global”: 重定义；多次初始化
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1058,12):
+      参见“stbi__vertically_flip_on_load_global”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1060,14): error C2084: 函数“void stbi_set_flip_vertically_on_load(int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1060,14):
+      参见“stbi_set_flip_vertically_on_load”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1068,30): error C2086: “int stbi__vertically_flip_on_load_local”: 重定义
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1068,30):
+      参见“stbi__vertically_flip_on_load_local”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1068,67): error C2086: “int stbi__vertically_flip_on_load_set”: 重定义
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1068,67):
+      参见“stbi__vertically_flip_on_load_set”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1070,14): error C2084: 函数“void stbi_set_flip_vertically_on_load_thread(int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1070,14):
+      参见“stbi_set_flip_vertically_on_load_thread”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1081,14): error C2084: 函数“void *stbi__load_main(stbi__context *,int *,int *,int *,int,stbi__result_info *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1081,14):
+      参见“stbi__load_main”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1136,17): error C2084: 函数“stbi_uc *stbi__convert_16_to_8(stbi__uint16 *,int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1136,17):
+      参见“stbi__convert_16_to_8”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1153,22): error C2084: 函数“stbi__uint16 *stbi__convert_8_to_16(stbi_uc *,int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1153,22):
+      参见“stbi__convert_8_to_16”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1170,13): error C2084: 函数“void stbi__vertical_flip(void *,int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1170,13):
+      参见“stbi__vertical_flip”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1197,13): error C2084: 函数“void stbi__vertical_flip_slices(void *,int,int,int,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1197,13):
+      参见“stbi__vertical_flip_slices”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1211,23): error C2084: 函数“unsigned char *stbi__load_and_postprocess_8bit(stbi__context *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1211,23):
+      参见“stbi__load_and_postprocess_8bit”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1214,18): error C2264: “stbi__load_main”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1224,35): error C2568: “=”: 无法解析函数重载
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1224,35):
+      可能是“stbi_uc *stbi__convert_16_to_8(stbi__uint16 *,int,int,int)”
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1239,22): error C2084: 函数“stbi__uint16 *stbi__load_and_postprocess_16bit(stbi__context *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1239,22):
+      参见“stbi__load_and_postprocess_16bit”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1242,18): error C2264: “stbi__load_main”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1252,35): error C2568: “=”: 无法解析函数重载
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1252,35):
+      可能是“stbi__uint16 *stbi__convert_8_to_16(stbi_uc *,int,int,int)”
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1269,13): error C2084: 函数“void stbi__float_postprocess(float *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1269,13):
+      参见“stbi__float_postprocess”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1293,14): error C2084: 函数“FILE *stbi__fopen(const char *,const char *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1293,14):
+      参见“stbi__fopen”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1321,18): error C2084: 函数“stbi_uc *stbi_load(const char *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1321,18):
+      参见“stbi_load”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1323,11): error C2440: “初始化”: 无法从“FILE *(__cdecl *)(const char *,const char *)”转换为“FILE *”
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1323,11):
+      没有使该转换得以执行的上下文
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1332,18): error C2084: 函数“stbi_uc *stbi_load_from_file(FILE *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1332,18):
+      参见“stbi_load_from_file”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1336,3): error C2264: “stbi__start_file”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1337,12): error C2264: “stbi__load_and_postprocess_8bit”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1346,23): error C2084: 函数“stbi_us *stbi_load_from_file_16(FILE *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1346,23):
+      参见“stbi_load_from_file_16”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1350,3): error C2264: “stbi__start_file”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1351,12): error C2264: “stbi__load_and_postprocess_16bit”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1360,18): error C2084: 函数“stbi_us *stbi_load_16(const char *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1360,18):
+      参见“stbi_load_16”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1362,11): error C2440: “初始化”: 无法从“FILE *(__cdecl *)(const char *,const char *)”转换为“FILE *”
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1362,11):
+      没有使该转换得以执行的上下文
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1366,12): error C2264: “stbi_load_from_file_16”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1373,18): error C2084: 函数“stbi_us *stbi_load_16_from_memory(const stbi_uc *,int,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1373,18):
+      参见“stbi_load_16_from_memory”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1376,3): error C2264: “stbi__start_mem”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1377,10): error C2264: “stbi__load_and_postprocess_16bit”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1380,18): error C2084: 函数“stbi_us *stbi_load_16_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1380,18):
+      参见“stbi_load_16_from_callbacks”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1383,3): error C2264: “stbi__start_callbacks”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1384,10): error C2264: “stbi__load_and_postprocess_16bit”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1387,18): error C2084: 函数“stbi_uc *stbi_load_from_memory(const stbi_uc *,int,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1387,18):
+      参见“stbi_load_from_memory”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1390,3): error C2264: “stbi__start_mem”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1391,10): error C2264: “stbi__load_and_postprocess_8bit”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1394,18): error C2084: 函数“stbi_uc *stbi_load_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1394,18):
+      参见“stbi_load_from_callbacks”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1397,3): error C2264: “stbi__start_callbacks”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1398,10): error C2264: “stbi__load_and_postprocess_8bit”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1402,18): error C2084: 函数“stbi_uc *stbi_load_gif_from_memory(const stbi_uc *,int,int **,int *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1402,18):
+      参见“stbi_load_gif_from_memory”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1406,3): error C2264: “stbi__start_mem”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1419,15): error C2084: 函数“float *stbi__loadf_main(stbi__context *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1419,15):
+      参见“stbi__loadf_main”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1432,10): error C2264: “stbi__load_and_postprocess_8bit”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1438,16): error C2084: 函数“float *stbi_loadf_from_memory(const stbi_uc *,int,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1438,16):
+      参见“stbi_loadf_from_memory”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1441,3): error C2264: “stbi__start_mem”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1442,10): error C2264: “stbi__loadf_main”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1445,16): error C2084: 函数“float *stbi_loadf_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1445,16):
+      参见“stbi_loadf_from_callbacks”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1448,3): error C2264: “stbi__start_callbacks”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1449,10): error C2264: “stbi__loadf_main”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1453,16): error C2084: 函数“float *stbi_loadf(const char *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1453,16):
+      参见“stbi_loadf”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1456,11): error C2440: “初始化”: 无法从“FILE *(__cdecl *)(const char *,const char *)”转换为“FILE *”
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1456,11):
+      没有使该转换得以执行的上下文
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1464,16): error C2084: 函数“float *stbi_loadf_from_file(FILE *,int *,int *,int *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1464,16):
+      参见“stbi_loadf_from_file”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1467,3): error C2264: “stbi__start_file”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1468,10): error C2264: “stbi__loadf_main”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1478,13): error C2084: 函数“int stbi_is_hdr_from_memory(const stbi_uc *,int)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1478,13):
+      参见“stbi_is_hdr_from_memory”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1482,3): error C2264: “stbi__start_mem”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1492,13): error C2084: 函数“int stbi_is_hdr(const char *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1492,13):
+      参见“stbi_is_hdr”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1494,11): error C2440: “初始化”: 无法从“FILE *(__cdecl *)(const char *,const char *)”转换为“FILE *”
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1494,11):
+      没有使该转换得以执行的上下文
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1504,13): error C2084: 函数“int stbi_is_hdr_from_file(FILE *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1504,13):
+      参见“stbi_is_hdr_from_file”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1510,3): error C2264: “stbi__start_file”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1521,13): error C2084: 函数“int stbi_is_hdr_from_callbacks(const stbi_io_callbacks *,void *)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1521,13):
+      参见“stbi_is_hdr_from_callbacks”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1525,3): error C2264: “stbi__start_callbacks”: 函数定义或声明中有错误；未调用函数
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1535,14): error C2374: “stbi__l2h_gamma”: 重定义；多次初始化
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1535,14):
+      参见“stbi__l2h_gamma”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1535,38): error C2374: “stbi__l2h_scale”: 重定义；多次初始化
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1535,38):
+      参见“stbi__l2h_scale”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1537,14): error C2084: 函数“void stbi_ldr_to_hdr_gamma(float)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1537,14):
+      参见“stbi_ldr_to_hdr_gamma”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1538,14): error C2084: 函数“void stbi_ldr_to_hdr_scale(float)”已有主体
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1538,14):
+      参见“stbi_ldr_to_hdr_scale”的前一个定义
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1541,14): error C2374: “stbi__h2l_gamma_i”: 重定义；多次初始化
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\stb_image.h(1541,14):
+      参见“stbi__h2l_gamma_i”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\stb_image.h(1541,14): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“hello_triangle.cpp”)
+  

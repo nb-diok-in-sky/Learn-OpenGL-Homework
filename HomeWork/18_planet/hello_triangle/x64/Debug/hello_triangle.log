@@ -1,0 +1,59 @@
+﻿  hello_triangle.cpp
+D:\LearnOpenGL\libraries\include\tool\mesh.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\shader.h(74,40): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\mesh.h(79,44): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\mesh.h(114,75): error C2039: "Normal": 不是 "Vertex" 的成员
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\mesh.h(15,8):
+      参见“Vertex”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\mesh.h(114,75): error C2618: offsetof 中的非法成员指示符
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\mesh.h(114,75):
+      offsetof 具有内在含义；使用 /Zc:offsetof- 还原到旧的非符合定义
+  
+D:\LearnOpenGL\libraries\include\tool\mesh.h(120,75): error C2039: "Tangent": 不是 "Vertex" 的成员
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\mesh.h(15,8):
+      参见“Vertex”的声明
+  
+D:\LearnOpenGL\libraries\include\tool\mesh.h(120,75): error C2618: offsetof 中的非法成员指示符
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\mesh.h(120,75):
+      offsetof 具有内在含义；使用 /Zc:offsetof- 还原到旧的非符合定义
+  
+D:\LearnOpenGL\libraries\include\tool\model.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\model.h(63,57): error C2065: “i”: 未声明的标识符
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\model.h(63,59): error C7732: expected an expression before ']'
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\libraries\include\tool\model.h(98,20): error C2039: "Normal": 不是 "Vertex" 的成员
+  (编译源文件“hello_triangle.cpp”)
+      D:\LearnOpenGL\libraries\include\tool\mesh.h(15,8):
+      参见“Vertex”的声明
+  
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(186,22): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(188,11): error C2374: “offset”: 重定义；多次初始化
+      D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(118,7):
+      参见“offset”的声明
+  
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(203,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(207,24): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(234,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(317,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(318,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(330,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(331,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(332,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(333,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\18_planet\hello_triangle\hello_triangle.cpp(357,16): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据

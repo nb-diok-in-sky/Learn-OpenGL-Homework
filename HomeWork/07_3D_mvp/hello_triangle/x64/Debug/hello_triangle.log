@@ -1,0 +1,13 @@
+﻿  hello_triangle.cpp
+D:\LearnOpenGL\libraries\include\tool\shader.h(74,40): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“hello_triangle.cpp”)
+  
+D:\LearnOpenGL\HomeWork\07_3D_mvp\hello_triangle\hello_triangle.cpp(294,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\07_3D_mvp\hello_triangle\hello_triangle.cpp(438,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\07_3D_mvp\hello_triangle\hello_triangle.cpp(439,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\07_3D_mvp\hello_triangle\hello_triangle.cpp(451,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\07_3D_mvp\hello_triangle\hello_triangle.cpp(452,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\07_3D_mvp\hello_triangle\hello_triangle.cpp(453,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\07_3D_mvp\hello_triangle\hello_triangle.cpp(454,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\HomeWork\07_3D_mvp\hello_triangle\hello_triangle.cpp(478,16): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  hello_triangle.vcxproj -> D:\LearnOpenGL\HomeWork\07_3D_mvp\x64\Debug\hello_triangle.exe
