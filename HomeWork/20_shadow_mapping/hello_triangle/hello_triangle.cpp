@@ -81,7 +81,10 @@ int main()
     // -------------------------
     Shader simpleDepthShader("D:/LearnOpenGL/HomeWork/20_shadow_mapping/hello_triangle/simpleDepthShader_vert.glsl", "D:/LearnOpenGL/HomeWork/20_shadow_mapping/hello_triangle/simpleDepthShader_frag.glsl");
     Shader debugDepthQuad("D:/LearnOpenGL/HomeWork/20_shadow_mapping/hello_triangle/debugDepthQuad_vert.glsl", "D:/LearnOpenGL/HomeWork/20_shadow_mapping/hello_triangle/debugDepthQuad_frag.glsl");
-
+    Shader shadowMapping("D:/LearnOpenGL/HomeWork/20_shadow_mapping/hello_triangle/shadowMapping_vert.glsl", "D:/LearnOpenGL/HomeWork/20_shadow_mapping/hello_triangle/shadowMapping_frag.glsl");
+                    //这个是环境光的   阴影的渲染，要作为最终渲染的
+    // 
+    // 
     // set up vertex data (and buffer(s)) and configure vertex attributes
     // ------------------------------------------------------------------
     float planeVertices[] = { 
@@ -125,8 +128,11 @@ int main()
     glTexImage2D(GL_TEXTURE_2D, 0, GL_DEPTH_COMPONENT, SHADOW_WIDTH, SHADOW_HEIGHT, 0, GL_DEPTH_COMPONENT, GL_FLOAT, NULL);
     glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_NEAREST);
     glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_NEAREST);
-    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT);
-    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_BORDER);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_BORDER);
+    float borderColor[] = {1.0,1.0,1.0,1.0};
+    glTexParameterfv(GL_TEXTURE_2D,GL_TEXTURE_BORDER_COLOR,borderColor);
+
     // attach depth texture as FBO's depth buffer
     glBindFramebuffer(GL_FRAMEBUFFER, depthMapFBO);
     glFramebufferTexture2D(GL_FRAMEBUFFER, GL_DEPTH_ATTACHMENT, GL_TEXTURE_2D, depthMap, 0);
@@ -178,23 +184,63 @@ int main()
         glViewport(0, 0, SHADOW_WIDTH, SHADOW_HEIGHT);
         glBindFramebuffer(GL_FRAMEBUFFER, depthMapFBO);
         glClear(GL_DEPTH_BUFFER_BIT);
+
+       
+
         glActiveTexture(GL_TEXTURE0);
         glBindTexture(GL_TEXTURE_2D, woodTexture);
+    
+        glEnable(GL_CULL_FACE);
+        glCullFace(GL_FRONT); 
         renderScene(simpleDepthShader);
-        glBindFramebuffer(GL_FRAMEBUFFER, 0);
+        glCullFace(GL_BACK);  
+        glDisable(GL_CULL_FACE);
 
-        // reset viewport
+        glBindFramebuffer(GL_FRAMEBUFFER, 0);
         glViewport(0, 0, SCR_WIDTH, SCR_HEIGHT);
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-        // render Depth map to quad for visual debugging
-        // ---------------------------------------------
-        debugDepthQuad.use();
-        debugDepthQuad.setFloat("near_plane", near_plane);
-        debugDepthQuad.setFloat("far_plane", far_plane);
+        
+        glm::mat4 model = glm::mat4(1.0);
+        glm::mat4 projection = glm::perspective(glm::radians(camera.Zoom), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
+        glm::mat4 view = camera.GetViewMatrix();
+
+        shadowMapping.use();
+        shadowMapping.setMat4("view", view);
+        shadowMapping.setMat4("projection", projection);
+        shadowMapping.setVec3("viewPos",camera.Position);
+        shadowMapping.setVec3("lightPos",lightPos);
+        shadowMapping.setMat4("lightSpaceMatrix", lightSpaceMatrix);
+        shadowMapping.setInt("diffuseTexture", 0);  
+        shadowMapping.setInt("shadowMap", 1);
+    
         glActiveTexture(GL_TEXTURE0);
+        glBindTexture(GL_TEXTURE_2D, woodTexture);
+        glActiveTexture(GL_TEXTURE1);
         glBindTexture(GL_TEXTURE_2D, depthMap);
-        renderQuad();
+     
+     
+        renderScene(shadowMapping);
+     
+
+
+
+        //// render Depth map to quad for visual debugging
+        //// ---------------------------------------------
+        //debugDepthQuad.use();
+        //debugDepthQuad.setFloat("near_plane", near_plane);
+        //debugDepthQuad.setFloat("far_plane", far_plane);
+        //glActiveTexture(GL_TEXTURE0);
+        //glBindTexture(GL_TEXTURE_2D, depthMap);
+        //renderQuad();
+
+
+
+
+
+
+
+
 
         // glfw: swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
         // -------------------------------------------------------------------------------
