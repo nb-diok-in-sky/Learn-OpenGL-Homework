@@ -1,1 +1,1 @@
-需要使用的话请在D盘新建名为“LearnOpenGL”的文件夹，将所有文件全部Clone到“LearnOpenGL”文件夹内
+HomeWork是所完成作业的集合，需要使用的话请在D盘新建名为“LearnOpenGL”的文件夹，将所有文件全部Clone到“LearnOpenGL”文件夹内，需要获取单独的作业文件夹也请将作业文件放置在"HomeWork"文件内
