@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearnOpenGL\\HomeWork\\03_glsl_shader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29758C63-8D93-4D7A-8139-87F4A818D998}|hello_triangle\\hello_triangle.vcxproj|D:\\LearnOpenGL\\HomeWork\\03_glsl_shader\\hello_triangle\\hello_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29758C63-8D93-4D7A-8139-87F4A818D998}|hello_triangle\\hello_triangle.vcxproj|solutionrelative:hello_triangle\\hello_triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello_triangle.cpp",
+              "DocumentMoniker": "D:\\LearnOpenGL\\HomeWork\\03_glsl_shader\\hello_triangle\\hello_triangle.cpp",
+              "RelativeDocumentMoniker": "hello_triangle\\hello_triangle.cpp",
+              "ToolTip": "D:\\LearnOpenGL\\HomeWork\\03_glsl_shader\\hello_triangle\\hello_triangle.cpp",
+              "RelativeToolTip": "hello_triangle\\hello_triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-13T00:49:30.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

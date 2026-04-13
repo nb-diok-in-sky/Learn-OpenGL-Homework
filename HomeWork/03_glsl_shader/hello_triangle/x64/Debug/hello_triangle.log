@@ -1,3 +1,4 @@
-﻿  hello_triangle.cpp
+﻿  glad.c
+  hello_triangle.cpp
 D:\LearnOpenGL\HomeWork\03_glsl_shader\hello_triangle\hello_triangle.cpp(243,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
   hello_triangle.vcxproj -> D:\LearnOpenGL\HomeWork\03_glsl_shader\x64\Debug\hello_triangle.exe
